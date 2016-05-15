@@ -1,0 +1,331 @@
+O cliente Normal 3075008256 chegou a discoteca.
+ 
+O cliente Normal 3075008256 entrou a discoteca.
+ 
+O cliente Normal 3066615552 chegou a discoteca.
+ 
+O cliente Normal 3066615552 entrou a discoteca.
+ 
+O cliente Normal 3066615552 entrou na Pista Dancas de Salao.
+ 
+O cliente Normal 3066615552 saiu da Pista Dancas de Salao
+ 
+O cliente Normal 3058222848 chegou a discoteca.
+ 
+O cliente Normal 3058222848 entrou a discoteca.
+ 
+O cliente Normal 3049830144 chegou a discoteca.
+ 
+O cliente Normal 3049830144 entrou a discoteca.
+ 
+O cliente Normal 3041437440 chegou a discoteca.
+ 
+O cliente Normal 3041437440 entrou a discoteca.
+ 
+O cliente Normal 3033044736 chegou a discoteca.
+ 
+O cliente Normal 3033044736 entrou a discoteca.
+ 
+O cliente Normal 2684352256 chegou a discoteca.
+ 
+O cliente Normal 2684352256 entrou a discoteca.
+ 
+O cliente Normal 2675959552 chegou a discoteca.
+ 
+O cliente Normal 2675959552 entrou a discoteca.
+ 
+O cliente Normal 2667566848 chegou a discoteca.
+ 
+O cliente Normal 2667566848 entrou a discoteca.
+ 
+O cliente Normal 2659174144 chegou a discoteca.
+ 
+O cliente Normal 2659174144 entrou a discoteca.
+ 
+O cliente Normal 2650781440 chegou a discoteca.
+ 
+O cliente Normal 2650781440 entrou a discoteca.
+ 
+O cliente Normal 2642388736 chegou a discoteca.
+ 
+O cliente Normal 2642388736 entrou a discoteca.
+ 
+O cliente Normal 2633996032 chegou a discoteca.
+ 
+O cliente Normal 2633996032 entrou a discoteca.
+ 
+O cliente Normal 2080372480 chegou a discoteca.
+ 
+O cliente Normal 2080372480 entrou a discoteca.
+ 
+O cliente Normal 2071979776 chegou a discoteca.
+ 
+O cliente Normal 2071979776 entrou a discoteca.
+ 
+O cliente Normal 2063587072 chegou a discoteca.
+ 
+O cliente Normal 2063587072 entrou a discoteca.
+ 
+O cliente Normal 2055194368 chegou a discoteca.
+ 
+O cliente Normal 2055194368 entrou a discoteca.
+ 
+O cliente Normal 2046801664 chegou a discoteca.
+ 
+O cliente Normal 2046801664 entrou a discoteca.
+ 
+O cliente Normal 2038408960 chegou a discoteca.
+ 
+O cliente Normal 2038408960 entrou a discoteca.
+ 
+O cliente Normal 2030016256 chegou a discoteca.
+ 
+O cliente Normal 2030016256 entrou a discoteca.
+ 
+O cliente Normal 1543501568 chegou a discoteca.
+ 
+O cliente Normal 1543501568 entrou a discoteca.
+ 
+O cliente Normal 1535108864 chegou a discoteca.
+ 
+O cliente Normal 1535108864 entrou a discoteca.
+ 
+O cliente Normal 1526716160 chegou a discoteca.
+ 
+O cliente Normal 1526716160 entrou a discoteca.
+ 
+O cliente Normal 1518323456 chegou a discoteca.
+ 
+O cliente Normal 1518323456 entrou a discoteca.
+ 
+O cliente Normal 1509930752 chegou a discoteca.
+ 
+O cliente Normal 1509930752 entrou a discoteca.
+ 
+O cliente Normal 1501538048 chegou a discoteca.
+ 
+O cliente Normal 1501538048 entrou a discoteca.
+ 
+O cliente Normal 1493145344 chegou a discoteca.
+ 
+O cliente Normal 1493145344 entrou a discoteca.
+ 
+O cliente Normal 1006630656 chegou a discoteca.
+ 
+O cliente Normal 1006630656 entrou a discoteca.
+ 
+O cliente Normal 998237952 chegou a discoteca.
+ 
+O cliente Normal 998237952 entrou a discoteca.
+ 
+O cliente Normal 989845248 chegou a discoteca.
+ 
+O cliente Normal 989845248 entrou a discoteca.
+ 
+O cliente Normal 981452544 chegou a discoteca.
+ 
+O cliente Normal 981452544 entrou a discoteca.
+ 
+O cliente Normal 973059840 chegou a discoteca.
+ 
+O cliente Normal 973059840 entrou a discoteca.
+ 
+O cliente Normal 964667136 chegou a discoteca.
+ 
+O cliente Normal 964667136 entrou a discoteca.
+ 
+O cliente Normal 956274432 chegou a discoteca.
+ 
+O cliente Normal 956274432 entrou a discoteca.
+ 
+O cliente Normal 738195200 chegou a discoteca.
+ 
+O cliente Normal 738195200 entrou a discoteca.
+ 
+O cliente Normal 729802496 chegou a discoteca.
+ 
+O cliente Normal 729802496 entrou a discoteca.
+ 
+O cliente Normal 721409792 chegou a discoteca.
+ 
+O cliente Normal 721409792 entrou a discoteca.
+ 
+O cliente Normal 713017088 chegou a discoteca.
+ 
+O cliente Normal 713017088 entrou a discoteca.
+ 
+O cliente Normal 704624384 chegou a discoteca.
+ 
+O cliente Normal 704624384 entrou a discoteca.
+ 
+O cliente Normal 696231680 chegou a discoteca.
+ 
+O cliente Normal 696231680 entrou a discoteca.
+ 
+O cliente Normal 687838976 chegou a discoteca.
+ 
+O cliente Normal 687838976 entrou a discoteca.
+ 
+O cliente Normal 603977472 chegou a discoteca.
+ 
+O cliente Normal 603977472 entrou a discoteca.
+ 
+O cliente Normal 595584768 chegou a discoteca.
+ 
+O cliente Normal 595584768 entrou a discoteca.
+ 
+O cliente Normal 587192064 chegou a discoteca.
+ 
+O cliente Normal 587192064 entrou a discoteca.
+ 
+O cliente Normal 578799360 chegou a discoteca.
+ 
+O cliente Normal 578799360 entrou a discoteca.
+ 
+O cliente Normal 570406656 chegou a discoteca.
+ 
+O cliente Normal 570406656 entrou a discoteca.
+ 
+O cliente Normal 562013952 chegou a discoteca.
+ 
+O cliente Normal 562013952 entrou a discoteca.
+ 
+O cliente Normal 553621248 chegou a discoteca.
+ 
+O cliente Normal 553621248 entrou a discoteca.
+ 
+O cliente Normal 545228544 chegou a discoteca.
+ 
+O cliente Normal 545228544 entrou a discoteca.
+ 
+O cliente Normal 536835840 chegou a discoteca.
+ 
+O cliente Normal 536835840 entrou a discoteca.
+ 
+O cliente Normal 528443136 chegou a discoteca.
+ 
+O cliente Normal 528443136 entrou a discoteca.
+ 
+O cliente Normal 520050432 chegou a discoteca.
+ 
+O cliente Normal 520050432 entrou a discoteca.
+ 
+O cliente Normal 511657728 chegou a discoteca.
+ 
+O cliente Normal 511657728 entrou a discoteca.
+ 
+O cliente Normal 503265024 chegou a discoteca.
+ 
+O cliente Normal 503265024 entrou a discoteca.
+ 
+O cliente Normal 494872320 chegou a discoteca.
+ 
+O cliente Normal 494872320 entrou a discoteca.
+ 
+O cliente Normal 486479616 chegou a discoteca.
+ 
+O cliente Normal 486479616 entrou a discoteca.
+ 
+O cliente Normal 486479616 entrou na Pista Pool Party.
+ 
+O cliente Normal 478086912 chegou a discoteca.
+ 
+O cliente Normal 478086912 entrou a discoteca.
+ 
+O cliente Normal 469694208 chegou a discoteca.
+ 
+O cliente Normal 469694208 entrou a discoteca.
+ 
+O cliente Normal 461301504 chegou a discoteca.
+ 
+O cliente Normal 461301504 entrou a discoteca.
+ 
+O cliente Normal 452908800 chegou a discoteca.
+ 
+O cliente Normal 452908800 entrou a discoteca.
+ 
+O cliente Normal 444516096 chegou a discoteca.
+ 
+O cliente Normal 444516096 entrou a discoteca.
+ 
+O cliente Normal 436123392 chegou a discoteca.
+ 
+O cliente Normal 436123392 entrou a discoteca.
+ 
+O cliente Normal 427730688 chegou a discoteca.
+ 
+O cliente Normal 427730688 entrou a discoteca.
+ 
+O cliente Normal 419337984 chegou a discoteca.
+ 
+O cliente Normal 419337984 entrou a discoteca.
+ 
+O cliente Normal 410945280 chegou a discoteca.
+ 
+O cliente Normal 410945280 entrou a discoteca.
+ 
+O cliente Normal 402552576 chegou a discoteca.
+ 
+O cliente Normal 402552576 entrou a discoteca.
+ 
+O cliente Normal 394159872 chegou a discoteca.
+ 
+O cliente Normal 394159872 entrou a discoteca.
+ 
+O cliente Normal 385767168 chegou a discoteca.
+ 
+O cliente Normal 385767168 entrou a discoteca.
+ 
+O cliente Normal 377374464 chegou a discoteca.
+ 
+O cliente Normal 377374464 entrou a discoteca.
+ 
+O cliente Normal 368981760 chegou a discoteca.
+ 
+O cliente Normal 368981760 entrou a discoteca.
+ 
+O cliente Normal 360589056 chegou a discoteca.
+ 
+O cliente Normal 360589056 entrou a discoteca.
+ 
+O cliente Normal 352196352 chegou a discoteca.
+ 
+O cliente Normal 352196352 entrou a discoteca.
+ 
+O cliente Normal 343803648 chegou a discoteca.
+ 
+O cliente Normal 343803648 entrou a discoteca.
+ 
+O cliente Normal 335410944 chegou a discoteca.
+ 
+O cliente Normal 335410944 entrou a discoteca.
+ 
+O cliente Normal 327018240 chegou a discoteca.
+ 
+O cliente Normal 327018240 entrou a discoteca.
+ 
+O cliente Normal 318625536 chegou a discoteca.
+ 
+O cliente Normal 318625536 entrou a discoteca.
+ 
+O cliente Normal 310232832 chegou a discoteca.
+ 
+O cliente Normal 310232832 entrou a discoteca.
+ 
+O cliente Normal 301840128 chegou a discoteca.
+ 
+O cliente Normal 301840128 entrou a discoteca.
+ 
+O cliente Normal 293447424 chegou a discoteca.
+ 
+O cliente Normal 293447424 entrou a discoteca.
+ 
+O cliente Normal 285054720 chegou a discoteca.
+ 
+O cliente Normal 285054720 entrou a discoteca.
+ 
+O cliente Normal 276662016 chegou a discoteca.
+ 
+O cliente Normal 276662016 entrou a discoteca.
+ 
+O cliente Normal 2

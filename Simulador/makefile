@@ -1,0 +1,23 @@
+simulador: simulador.o leEscreve.o sockets.o util.o  seccoesDiscoteca.o tempo.o	
+	gcc simulador.o leEscreve.o sockets.o util.o tempo.o seccoesDiscoteca.o -lpthread -lrt -o  simulador 
+
+simulador.o: ../lib/header.h simulador.c
+	gcc -c -g -std=c99 simulador.c
+
+leEscreve.o: ../lib/header.h ../lib/leEscreve.c
+	gcc -c -g -std=c99 ../lib/leEscreve.c
+
+sockets.o: ../lib/header.h ../lib/sockets.h ../lib/sockets.c
+	gcc -c -g -std=c99 ../lib/sockets.c
+
+util.o: ../lib/util.c ../lib/sockets.h
+	gcc -c -g -std=c99 ../lib/util.c
+
+seccoesDiscoteca.o: ../lib/header.h ../lib/seccoesDiscoteca.c
+	gcc -c -g -std=c99 ../lib/seccoesDiscoteca.c
+
+tempo.o: ../lib/header.h ../lib/tempo.c
+	gcc -c -g -std=c99 ../lib/tempo.c
+
+clean:
+	rm *.o
